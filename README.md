@@ -1,4 +1,4 @@
-# IBEX–SP500 Forecasting & Risk Analysis  
+# Market Risk Forecasting & Volatility Analysis
 **Volatility, Forecast Stability, EGARCH Modelling and Tail-Risk Evaluation**
 
 This project compares the IBEX-35 and the S&P500 using daily data to understand their volatility behaviour, downside risk, shock asymmetry and short-term forecastability.  
