@@ -43,6 +43,24 @@ Dashboard file (.pbix) built from analysis_panel.csv
 
 Detailed explanations appear in `09_final_report_and_conclusions.ipynb`.
 
+## Example Outputs
+
+### Time Series Forecasting (ARIMA)
+
+<img src="figures/03.ARIMA/arima_forecast_spx.png" width="750">
+
+### Volatility Modelling (EGARCH)
+
+<img src="figures/04.EGARCH/egarch_vol_spx.png" width="750">
+
+### Tail Risk Metrics (VaR & Expected Shortfall)
+
+<img src="figures/05.VaR_ES/var_es_spx.png" width="750">
+
+### Dynamic Market Correlation
+
+<img src="figures/08_comparative_risk/06_rolling_correlation.png" width="750">
+
 ## How to Reproduce
 
 1. Clone the repository  
